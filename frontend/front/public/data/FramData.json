@@ -1,0 +1,54 @@
+{
+  "message": "SUCCESS",
+  "sizes": [
+    {
+      "size": "S",
+      "price": "101400.000000"
+    },
+    {
+      "size": "M",
+      "price": "128250.000000"
+    },
+    {
+      "size": "L",
+      "price": "180960.000000"
+    }
+  ],
+  "materials": [
+    {
+      "material": "Black wood",
+      "image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/fr-black.d1d6e559.jpg",
+      "render_image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/pattern-paint-wood-black.3a782779.png"
+    },
+    {
+      "material": "White wood",
+      "image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/fr-white.82b8e291.jpg",
+      "render_image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/pattern-paint-wood-white.e972041c.png"
+    },
+    {
+      "material": "Dark wood",
+      "image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/fr-wood-dark.2ba50fbe.jpg",
+      "render_image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/pattern-paint-wood-dark.eba82c7c.png"
+    },
+    {
+      "material": "Light wood",
+      "image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/fr-wood-light.d27026a6.jpg",
+      "render_image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/pattern-paint-wood-light.1aced761.png"
+    },
+    {
+      "material": "Simple Black",
+      "image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/fr-wood-black-no.951abcb9.jpg",
+      "render_image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/pattern-paint-wood-black-no-patterns.6a85af3c.jpg"
+    },
+    {
+      "material": "Simple White",
+      "image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/fr-wood-white-no.8a2869cb.jpg",
+      "render_image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/pattern-paint-wood-white-no-patterns.3ca762a1.jpg"
+    },
+    {
+      "material": "Golden",
+      "image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/fr-wood-gold.ebce3ac3.jpg",
+      "render_image_url": "https://d17h7hjnfv5s46.cloudfront.net/assets/build/images/pattern-paint-wood-gold.7ef1fd0c.png"
+    }
+  ]
+}

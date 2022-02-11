@@ -1,0 +1,16 @@
+{
+  "banners": [
+    {
+      "image_url": "https://images.unsplash.com/photo-1447758902204-48010b87c24d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "text": "시간과 공간에 제약이 없는 온라인 갤러리 "
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1547826039-bfc35e0f1ea8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1266&q=80",
+      "text": " 작품을 전시하길 원하는 예술인 특별한 작품을 감상하고 싶은 소비자를 위한! "
+    },
+    {
+      "image_url": "https://media.istockphoto.com/photos/ongoing-auction-session-auctioneer-and-buyers-in-frame-picture-id1157214346?k=6&m=1157214346&s=612x612&w=0&h=rR1YxOzuSDnKpqIpTOM7uln6z4MCIsohgl7UbkOqSrQ=",
+      "text": " 작가들의 작품을 감상하고 소장할 기회를 제공하는 구름 갤러리입니다! "
+    }
+  ]
+}

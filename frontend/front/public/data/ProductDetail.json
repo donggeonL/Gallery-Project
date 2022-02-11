@@ -1,0 +1,27 @@
+{
+  "art": {
+    "id": 400,
+    "name": "Possimus possimus cumque a dolores tenetur minus aspernatur.",
+    "price": "8849608.00",
+    "description": "Nostrum in nostrum placeat distinctio. Ab aliquam minus dolores libero ea tenetur.\nAtque recusandae dignissimos veritatis minus veritatis dicta.",
+    "images": [
+      "https://images.unsplash.com/photo-1551913902-c92207136625?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1234&q=80",
+      "https://images.unsplash.com/photo-1620241608701-94ef138c7ec9?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1620238748497-0b4bd9b922e2?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+      "https://images.unsplash.com/photo-1620203178232-3619475228a9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2034&q=80"
+    ],
+    "height_cm": "153.00",
+    "width_cm": "87.00",
+    "released_year": "1985",
+    "status": "입찰을 시작해주세요.",
+    "author": "이재호",
+    "material": "스프레이",
+    "paper": "합성판"
+  },
+  "author": {
+    "name": "이재호",
+    "introduction": "Voluptate quos facilis occaecati nihil unde. Eveniet aliquid aliquid assumenda cumque temporibus.\nLaudantium doloremque voluptatem. Quod exercitationem odio aspernatur.",
+    "profile_image_url": "https://images.unsplash.com/photo-1507421048994-307746a3c08c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80",
+    "description": "Recusandae sapiente iste dolorum sed ipsa reprehenderit. Molestiae eligendi beatae provident vitae. Qui dignissimos dolorum voluptatum pariatur. Adipisci beatae quod sapiente repellendus."
+  }
+}

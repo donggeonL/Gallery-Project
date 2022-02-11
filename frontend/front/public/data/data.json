@@ -1,0 +1,315 @@
+{
+  "artists": [
+    {
+      "id": 782,
+      "name": "오지원",
+      "profile_image_url": "https://images.unsplash.com/photo-1486413869840-a99ac0a4c031?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1271&q=80",
+      "arts": [
+        {
+          "id": 25,
+          "thumbnail_url": "Unde dolores autem velit adipisci.",
+          "price": "5326385.00",
+          "height": "57.00",
+          "width": "186.00",
+          "material": "목탄",
+          "paper": "캔버스"
+        },
+        {
+          "id": 134,
+          "thumbnail_url": "Quibusdam ab exercitationem quibusdam nemo delectus vero.",
+          "price": "13820729.00",
+          "height": "165.00",
+          "width": "158.00",
+          "material": "목탄",
+          "paper": "종이"
+        },
+        {
+          "id": 469,
+          "thumbnail_url": "Commodi itaque consequuntur iste iusto.",
+          "price": "7984346.00",
+          "height": "113.00",
+          "width": "80.00",
+          "material": "디지털",
+          "paper": "캔버스"
+        },
+        {
+          "id": 962,
+          "thumbnail_url": "Corrupti omnis neque deserunt quidem totam.",
+          "price": "3883912.00",
+          "height": "94.00",
+          "width": "165.00",
+          "material": "디지털",
+          "paper": "글라스"
+        },
+        {
+          "id": 1247,
+          "thumbnail_url": "Aut velit eaque hic velit.",
+          "price": "9323494.00",
+          "height": "81.00",
+          "width": "81.00",
+          "material": "유채",
+          "paper": "합성판"
+        },
+        {
+          "id": 1551,
+          "thumbnail_url": "Qui architecto assumenda perferendis quae suscipit.",
+          "price": "14195406.00",
+          "height": "120.00",
+          "width": "92.00",
+          "material": "색연필",
+          "paper": "골판지"
+        },
+        {
+          "id": 2713,
+          "thumbnail_url": "Deserunt nam ex recusandae dolore blanditiis.",
+          "price": "13286383.00",
+          "height": "171.00",
+          "width": "52.00",
+          "material": "디지털",
+          "paper": "골판지"
+        },
+        {
+          "id": 2789,
+          "thumbnail_url": "Fugiat aliquid vel fuga magni.",
+          "price": "12596550.00",
+          "height": "167.00",
+          "width": "143.00",
+          "material": "연필",
+          "paper": "종이"
+        },
+        {
+          "id": 2929,
+          "name": "Numquam veniam omnis ipsam voluptatem.",
+          "price": "9753992.00",
+          "height": "180.00",
+          "width": "174.00",
+          "material": "스프레이",
+          "paper": "글라스"
+        },
+        {
+          "id": 2991,
+          "name": "Facere eius adipisci.",
+          "price": "4539834.00",
+          "height": "83.00",
+          "width": "113.00",
+          "material": "색연필",
+          "paper": "종이"
+        },
+        {
+          "id": 3004,
+          "name": "Veniam ipsum occaecati totam distinctio.",
+          "price": "13151002.00",
+          "height": "173.00",
+          "width": "164.00",
+          "material": "목탄",
+          "paper": "합성판"
+        },
+        {
+          "id": 3102,
+          "name": "Non accusantium velit modi voluptates eum.",
+          "price": "14437022.00",
+          "height": "96.00",
+          "width": "168.00",
+          "material": "스프레이",
+          "paper": "골판지"
+        },
+        {
+          "id": 3314,
+          "name": "Cum officiis tempora doloribus dolor sit dolores exercitationem.",
+          "price": "12128919.00",
+          "height": "110.00",
+          "width": "113.00",
+          "material": "스프레이",
+          "paper": "글라스"
+        },
+        {
+          "id": 3552,
+          "name": "Repellat natus tempore expedita.",
+          "price": "13106418.00",
+          "height": "161.00",
+          "width": "199.00",
+          "material": "색종이",
+          "paper": "골판지"
+        },
+        {
+          "id": 3610,
+          "name": "Debitis illo dignissimos consectetur aspernatur laboriosam.",
+          "price": "3122100.00",
+          "height": "178.00",
+          "width": "82.00",
+          "material": "스프레이",
+          "paper": "종이"
+        },
+        {
+          "id": 3742,
+          "name": "Accusamus unde officiis dolores enim repudiandae.",
+          "price": "10929050.00",
+          "height": "139.00",
+          "width": "162.00",
+          "material": "연필",
+          "paper": "골판지"
+        },
+        {
+          "id": 3957,
+          "name": "Natus nam labore dolore adipisci cum dignissimos.",
+          "price": "12173038.00",
+          "height": "192.00",
+          "width": "64.00",
+          "material": "색종이",
+          "paper": "골판지"
+        }
+      ]
+    },
+    {
+      "id": 808,
+      "name": "정미숙",
+      "profile_image_url": "https://images.unsplash.com/photo-1541130292430-a832637ddc0d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1027&q=80",
+      "arts": [
+        {
+          "id": 26,
+          "name": "Id debitis repudiandae.",
+          "price": "10573260.00",
+          "height": "151.00",
+          "width": "175.00",
+          "material": "색종이",
+          "paper": "글라스"
+        },
+        {
+          "id": 93,
+          "name": "Odit officia nihil eveniet aspernatur natus dolores quis.",
+          "price": "4634580.00",
+          "height": "77.00",
+          "width": "183.00",
+          "material": "디지털",
+          "paper": "캔버스"
+        },
+        {
+          "id": 610,
+          "name": "Odio consectetur cumque aspernatur.",
+          "price": "11267301.00",
+          "height": "65.00",
+          "width": "124.00",
+          "material": "색연필",
+          "paper": "캔버스"
+        },
+        {
+          "id": 755,
+          "name": "Fuga aliquam fuga illo debitis officiis.",
+          "price": "11326968.00",
+          "height": "182.00",
+          "width": "133.00",
+          "material": "디지털",
+          "paper": "종이"
+        },
+        {
+          "id": 1242,
+          "name": "Inventore pariatur magnam fugit.",
+          "price": "7727026.00",
+          "height": "153.00",
+          "width": "180.00",
+          "material": "유채",
+          "paper": "글라스"
+        },
+        {
+          "id": 1347,
+          "name": "Cumque modi nesciunt eos enim.",
+          "price": "11268865.00",
+          "height": "58.00",
+          "width": "131.00",
+          "material": "유채",
+          "paper": "글라스"
+        },
+        {
+          "id": 1434,
+          "name": "Inventore ex accusantium blanditiis.",
+          "price": "9412177.00",
+          "height": "140.00",
+          "width": "116.00",
+          "material": "디지털",
+          "paper": "글라스"
+        },
+        {
+          "id": 2000,
+          "name": "Enim et exercitationem earum.",
+          "price": "12895168.00",
+          "height": "134.00",
+          "width": "144.00",
+          "material": "디지털",
+          "paper": "종이"
+        },
+        {
+          "id": 2338,
+          "name": "Sunt nihil autem quis corrupti nesciunt.",
+          "price": "14801527.00",
+          "height": "162.00",
+          "width": "172.00",
+          "material": "스프레이",
+          "paper": "합성판"
+        },
+        {
+          "id": 2460,
+          "name": "Laboriosam quas numquam.",
+          "price": "14688685.00",
+          "height": "116.00",
+          "width": "176.00",
+          "material": "필름",
+          "paper": "골판지"
+        },
+        {
+          "id": 2620,
+          "name": "Possimus mollitia eos facere.",
+          "price": "12430037.00",
+          "height": "186.00",
+          "width": "174.00",
+          "material": "색종이",
+          "paper": "캔버스"
+        },
+        {
+          "id": 3278,
+          "name": "Voluptates laborum repellat omnis.",
+          "price": "8673136.00",
+          "height": "73.00",
+          "width": "169.00",
+          "material": "색종이",
+          "paper": "글라스"
+        },
+        {
+          "id": 3605,
+          "name": "Iste eaque accusamus.",
+          "price": "5572201.00",
+          "height": "83.00",
+          "width": "123.00",
+          "material": "필름",
+          "paper": "글라스"
+        },
+        {
+          "id": 3952,
+          "name": "In vero magnam perspiciatis.",
+          "price": "3661705.00",
+          "height": "64.00",
+          "width": "59.00",
+          "material": "목탄",
+          "paper": "종이"
+        },
+        {
+          "id": 3967,
+          "name": "Porro alias pariatur odio omnis nam.",
+          "price": "3541517.00",
+          "height": "95.00",
+          "width": "102.00",
+          "material": "디지털",
+          "paper": "캔버스"
+        },
+        {
+          "id": 3991,
+          "name": "Quisquam soluta assumenda quod voluptatem.",
+          "price": "9869142.00",
+          "height": "172.00",
+          "width": "101.00",
+          "material": "스프레이",
+          "paper": "글라스"
+        }
+      ]
+    }
+  ]
+}

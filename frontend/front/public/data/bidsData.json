@@ -1,0 +1,227 @@
+{
+  "auctions": [
+    {
+      "id": 16,
+      "location": "와우산 갤러리",
+      "address": "서울 마포구 와우산로 99",
+      "phone_number": "02-1111-3030",
+      "site_url": "해당 정보 없음",
+      "start_at": "2021-05-06 19:00",
+      "end_at": "2021-05-06 21:00",
+      "x": "126.9245853699950004",
+      "y": "37.5531848316649004",
+      "arts": [
+        {
+          "artist": "양미숙",
+          "artist_image_url": "https://images.unsplash.com/photo-1597310502681-0e46d49df0da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1234&q=80",
+          "name": "Aut maxime quidem amet incidunt.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1581922813342-7de3b87a7780?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "price": "5197452.00",
+          "released_year": 2005
+        },
+        {
+          "artist": "최유진",
+          "artist_image_url": "https://images.unsplash.com/photo-1584720175631-f9d3633a2e78?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80",
+          "name": "Voluptate dignissimos nihil cum.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1570744389406-f9dcdcb67ba8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1276&q=80",
+          "price": "3133069.00",
+          "released_year": 2003
+        },
+        {
+          "artist": "김은주",
+          "artist_image_url": "https://images.unsplash.com/photo-1536005233760-9894e2a60c3a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80",
+          "name": "Iste voluptatibus voluptatum beatae inventore quia doloribus.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=980&q=80",
+          "price": "7215108.00",
+          "released_year": 1993
+        },
+        {
+          "artist": "김은영",
+          "artist_image_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1300&q=80",
+          "name": "Repellat qui sequi ducimus molestias perspiciatis repellat.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1581922813342-7de3b87a7780?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "price": "12224592.00",
+          "released_year": 2014
+        },
+        {
+          "artist": "박은지",
+          "artist_image_url": "https://images.unsplash.com/photo-1512359573855-953710d3f7a8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "name": "Totam natus voluptas eius ipsa quidem quia.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1579541718334-85e6075516f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=966&q=80",
+          "price": "10442127.00",
+          "released_year": 1997
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "location": "야호 아트갤러리",
+      "address": "서울 서초구 신반포로47길 56 지하1층",
+      "phone_number": "02-544-2639",
+      "site_url": "www.lynnfineart.org/bbs/page.php?page_=sub2_01",
+      "start_at": "2021-05-07 11:00",
+      "end_at": "2021-05-08 21:00",
+      "x": "127.0183737710409986",
+      "y": "37.5128690375928002",
+      "arts": [
+        {
+          "artist": "최진우",
+          "artist_image_url": "https://images.unsplash.com/photo-1541130292430-a832637ddc0d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1027&q=80",
+          "name": "Voluptas commodi sapiente expedita unde.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1565902603417-1f523e0736fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80",
+          "price": "13901547.00",
+          "released_year": 1989
+        },
+        {
+          "artist": "박은정",
+          "artist_image_url": "https://images.unsplash.com/photo-1551180452-aea351b23949?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80",
+          "name": "Animi voluptas fugiat quam amet.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1570744389406-f9dcdcb67ba8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1276&q=80",
+          "price": "12940190.00",
+          "released_year": 1981
+        },
+        {
+          "artist": "최상호",
+          "artist_image_url": "https://images.unsplash.com/photo-1530432537673-edb4243b7038?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1036&q=80",
+          "name": "Expedita maxime odit minima illo occaecati nulla.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1584348085782-62f699089f5f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=820&q=80",
+          "price": "12966727.00",
+          "released_year": 1981
+        },
+        {
+          "artist": "강영환",
+          "artist_image_url": "https://images.unsplash.com/photo-1597310502681-0e46d49df0da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1234&q=80",
+          "name": "Iure animi eos molestias distinctio fugiat.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1611458182018-c043f4e947ec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1267&q=80",
+          "price": "5938209.00",
+          "released_year": 1994
+        },
+        {
+          "artist": "김영미",
+          "artist_image_url": "https://images.unsplash.com/photo-1507421048994-307746a3c08c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80",
+          "name": "Totam quas deleniti.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1234&q=80",
+          "price": "13245054.00",
+          "released_year": 1990
+        },
+        {
+          "artist": "홍서준",
+          "artist_image_url": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80",
+          "name": "Eius voluptates repellat fugit quos similique.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1579541513287-3f17a5d8d62c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=989&q=80",
+          "price": "14177839.00",
+          "released_year": 1985
+        },
+        {
+          "artist": "박도윤",
+          "artist_image_url": "https://images.unsplash.com/photo-1584720175631-f9d3633a2e78?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80",
+          "name": "Vero repellat voluptate aspernatur facilis hic asperiores.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1584348085782-62f699089f5f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=820&q=80",
+          "price": "13984051.00",
+          "released_year": 1999
+        },
+        {
+          "artist": "김도현",
+          "artist_image_url": "https://images.unsplash.com/photo-1532407886693-8f1cb93380be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=934&q=80",
+          "name": "Expedita odit id neque dicta eligendi.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1550895030-823330fc2551?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1234&q=80",
+          "price": "12585604.00",
+          "released_year": 1984
+        },
+        {
+          "artist": "박은경",
+          "artist_image_url": "https://images.unsplash.com/photo-1525748822304-6807cb1348ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80",
+          "name": "Eaque error deserunt ipsam doloremque mollitia facere.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1594471790576-eaa509f49724?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1267&q=80",
+          "price": "12030120.00",
+          "released_year": 2000
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "location": "K-미술관",
+      "address": "서울 강남구 선릉로 807",
+      "phone_number": "02-2138-0952",
+      "site_url": "www.instagram.com/kmcaseoul",
+      "start_at": "2021-05-07 17:00",
+      "end_at": "2021-05-09 21:00",
+      "x": "127.0391717160009932",
+      "y": "37.5243794232829018",
+      "arts": [
+        {
+          "artist": "민중수",
+          "artist_image_url": "https://images.unsplash.com/photo-1530432537673-edb4243b7038?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1036&q=80",
+          "name": "Laboriosam excepturi praesentium tempora recusandae rem doloribus.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1616618885543-379ceed8b007?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80",
+          "price": "7932535.00",
+          "released_year": 1998
+        },
+        {
+          "artist": "박유진",
+          "artist_image_url": "https://images.unsplash.com/photo-1496499354870-877088652a58?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
+          "name": "Minus sed quo sunt molestiae.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1573085101347-72537f47cb35?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80",
+          "price": "9065528.00",
+          "released_year": 1977
+        },
+        {
+          "artist": "김시우",
+          "artist_image_url": "https://images.unsplash.com/photo-1616839114420-3c8847765d99?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+          "name": "Perspiciatis tempora suscipit eaque.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1573085101347-72537f47cb35?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80",
+          "price": "12620344.00",
+          "released_year": 2014
+        },
+        {
+          "artist": "한미숙",
+          "artist_image_url": "https://images.unsplash.com/photo-1551180452-aea351b23949?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80",
+          "name": "Provident repudiandae corrupti praesentium.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1582201957417-cff83bb28164?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=957&q=80",
+          "price": "10496234.00",
+          "released_year": 1973
+        },
+        {
+          "artist": "김정희",
+          "artist_image_url": "https://images.unsplash.com/photo-1603031663141-10e7bfee982d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1049&q=80",
+          "name": "Eos doloremque saepe possimus.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1594471790576-eaa509f49724?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1267&q=80",
+          "price": "3472671.00",
+          "released_year": 2001
+        },
+        {
+          "artist": "최영희",
+          "artist_image_url": "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+          "name": "Doloribus nobis delectus dolorum doloribus.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1526304760382-3591d3840148?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+          "price": "13295255.00",
+          "released_year": 2015
+        },
+        {
+          "artist": "서현우",
+          "artist_image_url": "https://images.unsplash.com/photo-1548142813-c348350df52b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=935&q=80",
+          "name": "Quidem est omnis cum libero nostrum.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1544867885-2333f61544ad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "price": "12240380.00",
+          "released_year": 1989
+        },
+        {
+          "artist": "이윤서",
+          "artist_image_url": "https://images.unsplash.com/photo-1577202214328-c04b77cefb5d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80",
+          "name": "Magni eius harum magni id excepturi atque.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1565902603417-1f523e0736fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80",
+          "price": "14679529.00",
+          "released_year": 2009
+        },
+        {
+          "artist": "하예은",
+          "artist_image_url": "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80",
+          "name": "Quas soluta laudantium nobis.",
+          "thumbnail_url": "https://images.unsplash.com/photo-1562350624-713154ffca73?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80",
+          "price": "12549320.00",
+          "released_year": 1990
+        }
+      ]
+    }
+  ]
+}
