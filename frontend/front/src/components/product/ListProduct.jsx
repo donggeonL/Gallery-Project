@@ -4,9 +4,16 @@ import {Link} from 'react-router-dom'
 import styled from "styled-components";
 
 const Image = styled.img`
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
   border-radius: 5px;
+`;
+
+const Section__container = styled.section`
+  padding: 50px;
+  text-align: center;
+  margin: auto;
+  max-width: 1200px;
 `;
 
 const Text = styled.h2`
@@ -33,6 +40,32 @@ const Table = styled.td`
   border: 1px solid;
   text-align: center;
 `;
+
+const Job = styled.div`
+  display: flex;
+  align-items: center;
+`;
+
+const Job__description = styled.div`
+  margin: 0 16px;
+  text-align: left;
+`;
+
+const Job__name = styled.div`
+  color: white;
+  font-size: 30px;
+`;
+
+const Job__period = styled.div`
+  color: white;
+  font-size: 30px;
+`;
+
+const Job__status = styled.div`
+  color: white;
+  font-size: 20px;
+`;
+
 
 const Table1 = styled.th`
   justify-content: center;
@@ -64,30 +97,40 @@ const ListProduct = () => {
             <Text className="text-center"> 작품 리스트 </Text>
             <Link to="/add-product" className="btn btn-primary mb-2"> 작품 추가하기 </Link>
             <TableWrapper>
-                <thead>
-                <Table1> 작품</Table1> {/* name */}
-                <Table1> 사진</Table1> {/* fileinfo */}
-                <Table1> 가격</Table1> {/* price */}
-                <Table1> 결제 상태</Table1> {/* product_status */}
-                <Table1> 게시 일</Table1> {/* createtime */}
-
-                </thead>
                 <tbody>
+                {/*{*/}
+                {/*    product.map(*/}
+                {/*        product =>*/}
+                {/*            <tr key={product.id}>*/}
+                {/*                <Table>*/}
+                {/*                    <Link class="btn btn-outline-light"*/}
+                {/*                          to={`/product-detail/${product.id}`}> {product.name} </Link>*/}
+                {/*                </Table>*/}
+                {/*                <Table>*/}
+                {/*                    <Image src={"http://localhost:10002/" + product.fileinfo}></Image>*/}
+                {/*                </Table>*/}
+                {/*                <Table>{product.price}</Table>*/}
+                {/*                <Table>{product.product_status}</Table>*/}
+                {/*                <Table>{product.createtime}</Table>*/}
+                {/*            </tr>*/}
+                {/*    )*/}
+                {/*}*/}
+
                 {
                     product.map(
                         product =>
-                            <tr key={product.id}>
-                                <Table>
-                                    <Link class="btn btn-outline-light"
-                                          to={`/product-detail/${product.id}`}> {product.name} </Link>
-                                </Table>
-                                <Table>
+                            <Section__container>
+                                <Job>
                                     <Image src={"http://localhost:10002/" + product.fileinfo}></Image>
-                                </Table>
-                                <Table>{product.price}</Table>
-                                <Table>{product.product_status}</Table>
-                                <Table>{product.createtime}</Table>
-                            </tr>
+                                    <Job__description>
+                                        <Link class="btn btn-outline-light" to={`/product-detail/${product.id}`}> 제목
+                                            : {product.name} </Link>
+                                        <Job__name>{product.price}</Job__name>
+                                        <Job__period>{product.product_status}</Job__period>
+                                        <Job__status>{product.createtime}</Job__status>
+                                    </Job__description>
+                                </Job>
+                            </Section__container>
                     )
                 }
                 </tbody>

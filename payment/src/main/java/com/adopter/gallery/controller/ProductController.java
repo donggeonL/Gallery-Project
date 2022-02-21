@@ -37,7 +37,7 @@ public class ProductController {
         path = path.substring(0, path.indexOf("/com"));
         path = path + "/static/";
         MultipartFile file = product.getFile();
-
+        System.out.println(path);
 
         File dir = new File(path);
         if(!dir.isDirectory()) {
