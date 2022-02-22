@@ -23,9 +23,12 @@
  > ![image](https://user-images.githubusercontent.com/87507644/153768487-f2be76d0-cf0b-44fd-8594-ba4ed2db7c62.JPG)
 
  > ### 기능
- > ####회원
+
+ > #### 회원
  > * 
- > ####작품
+
+ > #### 작품
  > * 
- > ####결제
+
+ > #### 결제
  > * 
