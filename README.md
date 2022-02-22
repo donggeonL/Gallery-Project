@@ -21,3 +21,11 @@
  > ### 프로젝트 KhanbanBoard
  > ##### 칸반보드를 통한 일정공유 및 정보공유
  > ![image](https://user-images.githubusercontent.com/87507644/153768487-f2be76d0-cf0b-44fd-8594-ba4ed2db7c62.JPG)
+
+ > ### 기능
+ > ####회원
+ > * 
+ > ####작품
+ > * 
+ > ####결제
+ > * 
