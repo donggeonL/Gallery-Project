@@ -1,4 +1,4 @@
 # My Gallery Project
 
- > ###My TEAM
+ > ### My TEAM
  > 이동건(FullStack, Cloud.aws.)
