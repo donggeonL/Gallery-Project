@@ -6,3 +6,18 @@
  > ### 프로젝트 상세정보
  > ![image](https://user-images.githubusercontent.com/87507644/153648092-54b1718b-53ee-4b93-99f9-2c63f9f32366.png)
 
+ > ### 프로젝트 주제선정
+ > ![image](https://user-images.githubusercontent.com/87507644/153768486-a1ea04ec-64ef-41da-8400-2d1cac98ba42.JPG)
+
+ > ### 프로젝트 비전설정
+ > ![image](https://user-images.githubusercontent.com/87507644/153768479-27a2aa10-b63c-4ae4-a8dc-cd886187362b.JPG)
+
+ > ### 프로젝트 기능회의
+ > ![image](https://user-images.githubusercontent.com/87507644/153768485-24027788-74e0-447b-a7d2-38cfc931cf34.JPG)
+
+ > ### 프로젝트 이벤트스토밍
+ > ![image](https://user-images.githubusercontent.com/87507644/153768483-8baa6fd5-b9d9-463d-941b-88ee8aa3127e.JPG)
+
+ > ### 프로젝트 KhanbanBoard
+ > ##### 칸반보드를 통한 일정공유 및 정보공유
+ > ![image](https://user-images.githubusercontent.com/87507644/153768487-f2be76d0-cf0b-44fd-8594-ba4ed2db7c62.JPG)
