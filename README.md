@@ -38,4 +38,5 @@
  > * 미구현...
  >
  > ## 구현결과
- > <img width="80%" src="https://github.com/donggeonL/Gallery-Project/issues/4#issue-1162700566"/>
+ > <img width="80%" src="https://user-images.githubusercontent.com/87507644/157253735-2aad0c09-856a-4287-a12d-a231afb2041d.mp4"/>
+ > 
