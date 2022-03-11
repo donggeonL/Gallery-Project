@@ -38,5 +38,5 @@
  > * 미구현...
  
  > ## 구현결과
- > ![video](https://user-images.githubusercontent.com/87507644/157839589-3abc494a-7d5e-4224-bfe8-d60a3ee60cb9.mp4)
+ > https://user-images.githubusercontent.com/87507644/157839589-3abc494a-7d5e-4224-bfe8-d60a3ee60cb9.mp4
  > 
